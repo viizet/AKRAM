@@ -1,7 +1,7 @@
-<img src="https://telegra.ph/file/e01b2016af8ab7b7616dc.png" alt="logo" target="/blank">
+<img src="[https://telegra.ph/file/e01b2016af8ab7b7616dc.png](https://graph.org/file/66930191ac0b30f536f69.jpg)" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( Renamer BOT ) </a></>
+ <b><a href="https://telegram.me/Viizet" target="/blank"> viizet ( Renamer BOT ) </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -31,7 +31,7 @@
 <details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/viizet/AKRAM&branch=main&name=AKRAM" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -40,7 +40,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/viizet/AKRAM">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -81,9 +81,9 @@
 
 
 ### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
+- [🤩 Create Auto Filter BOT]([[httpsf://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s](https://t.me/FPDRAMA)](https://t.me/FPDRAMA))
 - [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
+- [🤩 Create Movie Request BOT]([https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s](https://t.me/FPDRAMA))
 - [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
 
 
