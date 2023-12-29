@@ -1,7 +1,28 @@
 from pyrogram import Client, filters
 from helper.database import db
 
+import logging
+logging.basicConfig(level=logging.DEBUG,
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
+import random
+import numpy
+import os
+from PIL import Image
+import time
+
+from config import Config
+# the Strings used for this "thing"
+from plugins.startmsg import Translation
+from pyrogram import Client as Clinton
+from database.access import clinton
+from hachoir.metadata import extractMetadata
+from hachoir.parser import createParser
+logging.getLogger("pyrogram").setLevel(logging.WARNING)
+from pyrogram import filters
+from database.adduser import AddUser
+from helper_funcs.help_Nekmo_ffmpeg import take_screen_shot
     
     
     
