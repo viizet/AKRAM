@@ -34,13 +34,3 @@ async def addthumbs(client, message):
 
           return width, duration
 
-async def Mdata03(download_directory):
-
-          duration = 0
-          metadata = extractMetadata(createParser(download_directory))
-          if metadata is not None:
-              if metadata.has("duration"):
-                  duration = metadata.get('duration').seconds
-
-          return duration
-
