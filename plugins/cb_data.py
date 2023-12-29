@@ -70,7 +70,7 @@ async def doc(bot,update):
             ph_path = await bot.download_media(media.thumbs[0].file_id)
          Image.open(ph_path).convert("RGB").save(ph_path)
          img = Image.open(ph_path)
-         img.resize((320, 320))
+         img.resize((414, 739))
          img.save(ph_path, "JPEG")
      await ms.edit("⚠️__**Please wait...**__\n__Processing file upload....__")
      c_time = time.time() 
