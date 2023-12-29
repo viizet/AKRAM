@@ -125,7 +125,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/viizet")
                ],[
-               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://t.me/FPDRAMA")
+               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url="https://t.me/FPDRAMA")
                ],[
                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/FPDRAMA")
                ],[
