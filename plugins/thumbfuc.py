@@ -23,14 +23,4 @@ async def addthumbs(client, message):
     await LazyDev.edit("**Thumbnail saved successfully**✅️")
 	
 
-          width = 0
-          duration = 0
-          metadata = extractMetadata(createParser(download_directory))
-          if metadata is not None:
-              if metadata.has("duration"):
-                  duration = metadata.get('duration').seconds
-              if metadata.has("width"):
-                  width = metadata.get("width")
-
-          return width, duration
-
+          
